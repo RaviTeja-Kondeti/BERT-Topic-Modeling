@@ -1,5 +1,11 @@
 # BERT Topic Modeling
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![BERT](https://img.shields.io/badge/BERT-Transformers-orange?logo=huggingface)](https://huggingface.co/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)](https://jupyter.org/)
+[![Code style](https://img.shields.io/badge/code%20style-professional-brightgreen)](https://github.com/RaviTeja-Kondeti/BERT-Topic-Modeling)
+
 Advanced topic modeling using BERT embeddings and BERTopic for unsupervised text analysis and semantic clustering.
 
 ## Overview

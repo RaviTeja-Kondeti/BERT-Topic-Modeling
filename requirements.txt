@@ -1,0 +1,11 @@
+bertopic>=0.15.0
+sentence-transformers>=2.2.0
+umap-learn>=0.5.3
+hdbscan>=0.8.29
+pandas>=1.5.0
+numpy>=1.23.0
+scikit-learn>=1.1.0
+matplotlib>=3.6.0
+plotly>=5.11.0
+jupyter>=1.0.0
+ipython>=8.0.0
